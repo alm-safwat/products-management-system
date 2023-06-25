@@ -52,4 +52,4 @@ If you have any questions or need further assistance, you can reach out to the p
 Happy product management!
 
 ## Demo: 
-You can see a live demo here : https://alm-safwat.github.io/products-management-system/
+You can see a live demo here :  [Demo](https://alm-safwat.github.io/products-management-system/) 
